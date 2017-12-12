@@ -2,7 +2,7 @@
 layout: page
 title: stuff
 permalink: /stuff/
-image: /assets/img/about.jpg
+image: /assets/img/roth-tsp-enrollment.jpg
 ---
 
 ## About GSA
